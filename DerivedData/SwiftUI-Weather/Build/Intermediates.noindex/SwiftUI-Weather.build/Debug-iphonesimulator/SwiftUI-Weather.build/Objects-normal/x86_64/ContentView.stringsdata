@@ -1,0 +1,12 @@
+{
+  "source": "/Users/neda/Desktop/SwiftUI-Weather/SwiftUI-Weather/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld°"
+      }
+    ]
+  },
+  "version": 1
+}

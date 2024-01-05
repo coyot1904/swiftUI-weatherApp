@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "85ba6ec8910570ccfee2b8541d8dea5601ec239041dea213aa9b86f79c5e13d7"
+    }
+  ],
+  "containerPath" : "/Users/neda/Desktop/SwiftUI-Weather/SwiftUI-Weather.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Products",
+      "pchPath" : "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

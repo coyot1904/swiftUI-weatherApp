@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>41241143-CED7-486B-B69B-1060F4C875E9</key>
+		<key>1D7B666E-29C7-4919-8025-FA258B0CEECB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>41241143-CED7-486B-B69B-1060F4C875E9.xcactivitylog</string>
+			<string>1D7B666E-29C7-4919-8025-FA258B0CEECB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL25lZGFcL0Rlc2t0b3BcL1N3aWZ0VUktV2VhdGhlclwvU3dpZnRVSS1XZWF0aGVyLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiODFGRDk0NDQyQjQ1NzcxNDAwQTExMzQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>726046079.50334203</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>1D7B666E-29C7-4919-8025-FA258B0CEECB</string>
+		</dict>
+		<key>2A9882BF-B438-4786-9665-36EE0C37F90A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A9882BF-B438-4786-9665-36EE0C37F90A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +54,153 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9uZWRhXC9EZXNrdG9wXC9Td2lmdFVJLVdlYXRoZXJcL1N3aWZ0VUktV2VhdGhlci54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>725972771.68186295</real>
+			<real>726123315.52859104</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build for Previews SwiftUI-Weather</string>
 			<key>uniqueIdentifier</key>
-			<string>41241143-CED7-486B-B69B-1060F4C875E9</string>
+			<string>2A9882BF-B438-4786-9665-36EE0C37F90A</string>
+		</dict>
+		<key>3675607F-4708-4B22-8352-FC8CCBE0C319</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3675607F-4708-4B22-8352-FC8CCBE0C319.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9uZWRhXC9EZXNrdG9wXC9Td2lmdFVJLVdlYXRoZXJcL1N3aWZ0VUktV2VhdGhlci54Y29kZXByb2oifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>726046079.50334203</real>
+			<key>timeStoppedRecording</key>
+			<real>726046081.28561795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>3675607F-4708-4B22-8352-FC8CCBE0C319</string>
+		</dict>
+		<key>59814102-6B79-4F26-B5EA-4BD690542E9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59814102-6B79-4F26-B5EA-4BD690542E9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>726046079.50334203</real>
+			<key>timeStoppedRecording</key>
+			<real>726046081.28561795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>59814102-6B79-4F26-B5EA-4BD690542E9B</string>
+		</dict>
+		<key>A48F6D72-0E7A-402E-9A0F-B8320FEE7A9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A48F6D72-0E7A-402E-9A0F-B8320FEE7A9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL25lZGFcL0Rlc2t0b3BcL1N3aWZ0VUktV2VhdGhlclwvU3dpZnRVSS1XZWF0aGVyLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiODFGRDk0NDQyQjQ1NzcxNDAwQTExMzQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>726123315.52859104</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>A48F6D72-0E7A-402E-9A0F-B8320FEE7A9F</string>
+		</dict>
+		<key>C2963433-08DF-4609-85F6-179429A3DA44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2963433-08DF-4609-85F6-179429A3DA44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL25lZGFcL0Rlc2t0b3BcL1N3aWZ0VUktV2VhdGhlclwvU3dpZnRVSS1XZWF0aGVyLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiODFGRDk0NDQyQjQ1NzcxNDAwQTExMzQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>726046079.50334203</real>
+			<key>timeStoppedRecording</key>
+			<real>726046081.28561795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>C2963433-08DF-4609-85F6-179429A3DA44</string>
+		</dict>
+		<key>DF78122C-FBAC-4940-9FD8-B39210ED70E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF78122C-FBAC-4940-9FD8-B39210ED70E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>726123315.52859104</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>DF78122C-FBAC-4940-9FD8-B39210ED70E2</string>
 		</dict>
 	</dict>
 </dict>

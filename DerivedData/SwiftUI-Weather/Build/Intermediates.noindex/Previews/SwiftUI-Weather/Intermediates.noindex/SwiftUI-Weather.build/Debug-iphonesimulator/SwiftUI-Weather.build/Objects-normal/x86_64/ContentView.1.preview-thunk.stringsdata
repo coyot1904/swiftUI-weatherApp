@@ -1,0 +1,12 @@
+{
+  "source": "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/Previews/SwiftUI-Weather/Intermediates.noindex/SwiftUI-Weather.build/Debug-iphonesimulator/SwiftUI-Weather.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld°"
+      }
+    ]
+  },
+  "version": 1
+}

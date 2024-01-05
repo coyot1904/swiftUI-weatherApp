@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+SwiftUI-Weather in SwiftUI-Weather, no dependencies
+SwiftUI-Weather in SwiftUI-Weather, no dependencies
+SwiftUI-WeatherTests in SwiftUI-Weather, depends on:
+SwiftUI-Weather in SwiftUI-Weather (explicit)
+SwiftUI-WeatherTests in SwiftUI-Weather, depends on:
+SwiftUI-Weather in SwiftUI-Weather (explicit)
+SwiftUI-WeatherTests in SwiftUI-Weather, no dependencies
+SwiftUI-WeatherUITests in SwiftUI-Weather, depends on:
+SwiftUI-Weather in SwiftUI-Weather (explicit)
+SwiftUI-WeatherUITests in SwiftUI-Weather, depends on:
+SwiftUI-Weather in SwiftUI-Weather (explicit)
+SwiftUI-WeatherUITests in SwiftUI-Weather, no dependencies

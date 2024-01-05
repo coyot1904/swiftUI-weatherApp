@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "da8e25216dcb6d359136c6f5d2969d31c6862169cf7b8ea4dde72523ab2b6df0"
+build_start_time: [1704430516, 19544000]
+build_end_time: [1704430521, 124735000]
+inputs:
+  "/Users/neda/Desktop/SwiftUI-Weather/SwiftUI-Weather/ContentView.swift": [1704374923, 67456821]
+  "/Users/neda/Desktop/SwiftUI-Weather/SwiftUI-Weather/SwiftUI_WeatherApp.swift": [1704279956, 953571867]
+  "/Users/neda/Desktop/SwiftUI-Weather/SwiftUI-Weather/WeatherButton.swift": [1704349080, 52567458]

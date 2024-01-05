@@ -1,0 +1,24 @@
+{
+  "source": "/Users/neda/Desktop/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/Previews/SwiftUI-Weather/Intermediates.noindex/SwiftUI-Weather.build/Debug-iphonesimulator/SwiftUI-Weather.build/Objects-normal/x86_64/ContentView.5.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld°"
+      },
+      {
+        "comment": "",
+        "key": "Izmit, Kocaeli"
+      },
+      {
+        "comment": "",
+        "key": "14°"
+      },
+      {
+        "comment": "",
+        "key": "Greeting"
+      }
+    ]
+  },
+  "version": 1
+}
